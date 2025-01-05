@@ -207,7 +207,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="w-full items-center justify-center bg-slate-800 text-slate-100">
+      <div className="w-full items-center justify-center bg-slate-900 text-slate-100">
         <div className="flex flex-col gap-4 w-full items-center border border-slate-800  p-4">
           <p className="text-2xl">Portfolio</p>
           <p className="text-sm">@2025</p>
